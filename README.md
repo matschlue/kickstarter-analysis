@@ -6,4 +6,4 @@ Performing analysis on Kickstarter data to uncover trends
 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/100528885/159187639-c7d1790a-c46d-4d9d-bfe0-bafc0c9ca4bf.png)
 
-![Parent Category Outcomes](C:\Users\schlu\OneDrive\Escritorio\Data Analysis\Clases\Module 1\Louise\Parent Category Outcomes.png)
+![Parent Category Outcomes](C:\Users\schlu\OneDrive\Escritorio\Data Analysis\Clases\Module 1\Louise\Parent Category Outcomes.png?raw=true "Parent Category Outcomes")
