@@ -6,5 +6,6 @@ Performing analysis on Kickstarter data to uncover trends
 
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/100528885/159187639-c7d1790a-c46d-4d9d-bfe0-bafc0c9ca4bf.png)
 
+![Alt text](/theater_outcomes_vs_launch_date.png "Image")
 
 ![Alt text](/outcomes_vs_goals.png "Image")
