@@ -5,4 +5,6 @@ Performing analysis on Kickstarter data to uncover trends
 
 ![Alt text](/theater_outcomes_vs_launch_date.png "Image")
 
+## image 2
+
 ![Alt text](/outcomes_vs_goals.png "Image")
