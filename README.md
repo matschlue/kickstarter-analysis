@@ -5,6 +5,7 @@ For this examination kickerstarter data was used to determine and expose trends 
 - Launch date vs outcome (successful, failed, cancelled)
 - Funding goal vs outcome (successful, failed)
 
+This data set was then analyzed via the creation of additional rows (e.g. Year), Pivot tables as well as graphic visualizations. A possible challenge to this analysis could be the applcation of the right filters and formulas to arrive to correct conclusions. 
 
 ## Results
 ### Launch date vs outcome
@@ -14,38 +15,13 @@ The most successful launch date according to the data is during _May_. In total,
 
 The worst point in time to launch a campaign is _December_. The data reveals that the amount of successful launches and failed launches are essentially the same during that period of time. A possible reason for this discovery might be that there is less available excess cash due to Christmas purchases.  
 
-
-### Outcomes vs goals
-
+### Funding goal vs outcome
 ![Alt text](/outcomes_vs_goals.png "Image")
 
+The highest probability of achieving a funding goal 
 
 
-Analysis and Challenges: Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 
-## What are two conclusions you can draw about the Theater Outcomes by Launch Date?
-## What can you conclude about the Outcomes based on Goals?
-## What are some limitations of this dataset?
-## What are some other possible tables and/or graphs that we could create?
+## Limitations
 
-## Overview of Project
-
-### Purpose
-
-## Analysis and Challenges
-
-### Analysis of Outcomes Based on Launch Date
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+## Other tables/graphs
