@@ -24,4 +24,6 @@ Funding goals up to 5,000$ have the highest probability of being successful. Wit
 A possible limitation in the data set are the differnt curriencies which are being used. It is difficult to compare funding goals in total, because they are based on different currencies and therefore the value can be the same, however the amounts are completely different. 
 
 ## Other tables/graphs
-Country specific tables, 
+Other suggestions for additioal tables and graphs could include:
+- country specific tables/graphs in order to avoid the currency issue
+- comparison of yearly data to display current tendencies and developments 
