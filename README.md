@@ -1,15 +1,21 @@
-Overview of Project: Explain the purpose of this analysis.
-
 # An analysis for kickstarter campaigns
-Performing analysis on Kickstarter data to uncover trends
+## Performance of an analysis with kickstarter data to uncover trends
+For this examination kickerstarter data was used to determine and expose trends regarding two relationships:
+
+- Launch date vs outcome (successful, failed, cancelled)
+- Funding goal vs outcome (successful, failed)
 
 
-
-## image 1
-
+## Results
+### Launch date vs outcome
 ![Alt text](/theater_outcomes_vs_launch_date.png "Image")
 
-## image 2
+The most successful launch date according to the data is during _May_. In total, there were approximately 110 successful launches in the theater category, which is substantially higher than in any other month. 
+
+The worst point in time to launch a campaign is _December_. The data reveals that the amount of successful launches and failed launches are essentially the same during that period of time. A possible reason for this discovery might be that there is less available excess cash due to Christmas purchases.  
+
+
+### Outcomes vs goals
 
 ![Alt text](/outcomes_vs_goals.png "Image")
 
